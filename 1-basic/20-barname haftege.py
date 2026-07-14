@@ -1,0 +1,11 @@
+shanbe = input("shanbe:")
+yek_shanbe = input("yek_shanbe:")
+do_shanbe = input("do_shanbe:")
+se_shanbe = input("se_shanbe:")
+chahr_shanbe = input("chahr_shanbe:")
+pang_shanbe = input("pang_shanbe:")
+jome = input("jome_shanbe:")
+
+print(40*("-"),"barname",40*("-"))
+print("shanbe","\t","yek_Shanbe","\t","do_Shanbe","\t","se_Shanbe","\t","chahr_Shanbe","\t","pang_shanbe","\t","jome","\n","\n") 
+print(shanbe ,"\t", yek_shanbe,"\t","\t", do_shanbe,"\t","\t", se_shanbe ,"\t","\t", chahr_shanbe,"\t","\t", pang_shanbe,"\t", jome)
